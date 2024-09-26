@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#ade8f4, #48cae4);
+    background: linear-gradient(#ffb3c6, #ff8fab);
     color: #ffffff;
 }
 
@@ -12,12 +12,12 @@ h1, h2, h3, h4, p {
 #cat-img {
     width: 100px;
     border-radius: 40%;
-    border: 6px solid #EFB0C9;
+    border: 6px solid #89646e;
     margin-bottom: 10px;
 }
 
 #bday-age {
-    background: #EFB0C9;
+    background: #89646e;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0 10px 0;
@@ -25,7 +25,7 @@ h1, h2, h3, h4, p {
 
 #bday-date {
     margin: 0;
-    background: #EFB0C9;
+    background: #89646e;
     padding: 5px 10px;
     border-radius: 5px;
 }
